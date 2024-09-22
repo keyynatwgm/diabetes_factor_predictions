@@ -1,7 +1,6 @@
-# tubes_prak_machine_learning
+# Diabetes Factor Predictions
 
-Tubes atau Tugas Besar merupakan project akhir untuk setiap mata kuliah di Program Studi S1 Teknologi Informasi Universitas Sumatera Utara 
-Project ini dibuat untuk memenuhi tugas besar mata kuliah Praktikum Pembelajaran Mesin
+Project ini dibuat untuk memenuhi tugas besar mata kuliah Praktikum Pembelajaran Mesin di Program Studi S1 Teknologi Informasi Universitas Sumatera Utara 
 
 **Asisten Laboratorium :** Arsya Fikri | 191402066
 
